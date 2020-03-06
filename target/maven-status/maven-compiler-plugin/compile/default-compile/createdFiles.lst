@@ -1,0 +1,11 @@
+org\certificatic\contribuyente\service\ContribuyenteServiceImplService.class
+org\certificatic\contribuyente\service\ObtenerContribuyentes.class
+org\certificatic\contribuyente\service\ObjectFactory.class
+org\cliente\ClienteContribuyente\App.class
+org\certificatic\contribuyente\service\ContribuyenteService.class
+org\certificatic\contribuyente\service\package-info.class
+org\cliente\ClienteContribuyente\ClienteContribuyente.class
+org\certificatic\contribuyente\service\Contribuyente.class
+org\certificatic\contribuyente\service\ObtenerContribuyentesResponse.class
+org\certificatic\contribuyente\service\Crearcontribuyente.class
+org\certificatic\contribuyente\service\CrearcontribuyenteResponse.class
